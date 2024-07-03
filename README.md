@@ -20,7 +20,7 @@
   
 - 🧑‍🎓 I’m an Undergraduate at Saegis
 
-- 🌱 I’m currently learning NodeJs, React Js, Aws, Docker, Kubernates
+- 🌱 I’m currently learning React Js
 
 - 💬 Ask me about Java, HTML, CSS, PHP, JavaScript, Python, React Js
 
